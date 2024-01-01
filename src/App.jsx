@@ -48,6 +48,7 @@ function App() {
           <Route path="app" element={<AppLayout />}>
             <Route
               index
+              replace
               // element={<CityList cities={cities} loading={loading} />}
               element={<Navigate to="cities" />}
             />
