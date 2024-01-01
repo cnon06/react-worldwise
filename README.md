@@ -1,8 +1,18 @@
-# React + Vite
+Creating Our First App With Vite: "WorldWise"
+Routing and Single-Page Applications (SPAs)
+Implementing Main Pages and Routes
+Linking Between Routes With <Link /> and <NavLink />
+Styling Options For React Applications
+Using CSS Modules
+Building the Pages
+Building the App Layout
+Nested Routes and Index Route
+Implementing the Cities List
+Implementing the Countries List
+Storing State in the URL
+Dynamic Routes With URL Parameters
+Reading and Setting a Query String
+Programmatic Navigation with useNavigate
+Programmatic Navigation with <Navigate />
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![worldwise](https://github.com/cnon06/react-worldwise/assets/59291488/12a74739-cd00-4d28-be2f-7b86798dcb60)
